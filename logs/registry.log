@@ -1,0 +1,14 @@
+{"level":30,"time":1743620986265,"pid":47494,"hostname":"B.local","msg":"Registry service listening on port 3005"}
+{"level":30,"time":1743620986336,"pid":47494,"hostname":"B.local","msg":"Registered service: service-b at http://localhost:3002"}
+{"level":30,"time":1743620986351,"pid":47494,"hostname":"B.local","msg":"Registered service: service-d at http://localhost:3004"}
+{"level":30,"time":1743620986352,"pid":47494,"hostname":"B.local","msg":"Registered service: service-a at http://localhost:3001"}
+{"level":30,"time":1743620986375,"pid":47494,"hostname":"B.local","msg":"Registered service: api-gateway at http://localhost:3000"}
+{"level":30,"time":1743620986878,"pid":47494,"hostname":"B.local","msg":"Registered service: service-c at http://localhost:3003"}
+{"level":30,"time":1743621244123,"pid":48259,"hostname":"B.local","msg":"Registry service listening on port 3005"}
+{"level":30,"time":1743621244229,"pid":48259,"hostname":"B.local","msg":"Registered service: service-b at http://localhost:3002"}
+{"level":30,"time":1743621244246,"pid":48259,"hostname":"B.local","msg":"Registered service: service-d at http://localhost:3004"}
+{"level":30,"time":1743621244269,"pid":48259,"hostname":"B.local","msg":"Registered service: api-gateway at http://localhost:3000"}
+{"level":30,"time":1743621244275,"pid":48259,"hostname":"B.local","msg":"Registered service: service-a at http://localhost:3001"}
+{"level":30,"time":1743621244377,"pid":48259,"hostname":"B.local","msg":"Registered service: service-c at http://localhost:3003"}
+{"level":30,"time":1743621617107,"pid":48259,"hostname":"B.local","msg":"Registered service: service-a at http://localhost:3001"}
+{"level":30,"time":1743621622934,"pid":48259,"hostname":"B.local","msg":"Registered service: service-a at http://localhost:3001"}
